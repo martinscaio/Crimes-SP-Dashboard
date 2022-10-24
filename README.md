@@ -1,5 +1,8 @@
 # Crimes SP - Dashboard
 
+
+Caso queira acessar o Dashboard [clique aqui]()
+
 Dashboard com alguns dos dados da criminalidade em SP entre 2018 e 2021.
 Este projeto é inspirado num infográfico do [Estadão](https://infograficos.estadao.com.br/cidades/criminalidade-bairro-a-bairro/) 
 
@@ -32,6 +35,21 @@ Nas minhas análises, agrupei os ocorridos por "Data de Ocorrência" ao invés d
 
 ## Dashboard
 
-[imagens]
+Caso queira acessar o Dashboard [clique aqui]()
 
+Como ficou o dashboard ?
+
+
+
+![dashboard3_imagem](https://user-images.githubusercontent.com/75284489/197599920-422ab207-711c-4f75-ba1f-d83210dd371a.png)
+
+Como podemos ver na imagem acima, há na barra lateral esquerda os tipos de crime. Após selecionar o crime na lateral esquerda, é possível selecionar o ano de visualização.
+
+![dashboard_imagem](https://user-images.githubusercontent.com/75284489/197599914-8b5991d9-a523-4cb0-90ac-2fcf37be2ac2.png)
+
+Com podemos ver pela imagem acima, o mapa é interativo, ou seja, podemos passar o mouse pelos distritos que nos informa o nome da Delegacia, o número e a quantidade de ocorridos.
+
+A tabela do lado direito também é interativa, podendo pesquisar o nome da delegacia de interesse.
+
+![imagem2_dash](https://user-images.githubusercontent.com/75284489/197599922-391a6582-b501-492a-9ede-e5695db2bacf.png)
 
