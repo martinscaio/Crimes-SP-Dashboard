@@ -21,4 +21,10 @@ A manipulação e limpeza dos dados foi realizada utilizando o R (tidyverse). O 
 Os dados podem ser encontrados neste [link](http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx) no site da Segurança Pública de SP.
 
 
-Para agrupar os dados corretamente seguí a metodologia disponibilizada no [site](http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx) 'Exportar Metodologia'.
+Para agrupar os dados corretamente procurei a metodologia disponibilizada no [site](http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx) 'Exportar Metodologia'. No entanto, a metodologia não explica em detalhes o que não ajuda muito. 
+
+Conforme as análises iam avançando, realizei comparativos com algumas informações disponibilizadas pela própria SSP, pela Folha de SP e pela FECAP. Em alguns tipos de crimes como "Latrocínio" e "Homicidios" chegamos aos mesmos números de ocorridos. Mas já em crimes de "Roubos de Celulares" e "Roubos de Veículos" há uma certa inconsistência nos valores encontrados. 
+
+Por exemplo, a [Folha de SP](https://www1.folha.uol.com.br/cotidiano/2022/02/roubo-de-celular-se-concentra-na-volta-para-casa-e-na-periferia-de-sp.shtml) levanta que em 2021 a 47º DP Capão Redondo registrou 4045 casos de roubos de celulares no ano de 2021. Já a [FECAP](https://www.fecap.br/2022/03/03/roubo-e-furto-de-celulares-estudo-da-fecap-lista-locais-ruas-e-bairros-mais-perigosos-da-cidade-sp/) levanta que em 2021 houve 3389 roubos no Capão Redondo.
+
+
