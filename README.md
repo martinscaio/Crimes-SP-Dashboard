@@ -1,7 +1,7 @@
 # Crimes SP - Dashboard
 
 
-Caso queira acessar o Dashboard [clique aqui]()
+Caso queira acessar o Dashboard [clique aqui](https://caio-martins.shinyapps.io/Crimes-SP-Dashboard/)
 
 Dashboard com alguns dos dados da criminalidade em SP entre 2018 e 2021.
 Este projeto é inspirado num infográfico do [Estadão](https://infograficos.estadao.com.br/cidades/criminalidade-bairro-a-bairro/) 
@@ -35,7 +35,7 @@ Nas minhas análises, agrupei os ocorridos por "Data de Ocorrência" ao invés d
 
 ## Dashboard
 
-Caso queira acessar o Dashboard [clique aqui]()
+Caso queira acessar o Dashboard [clique aqui](https://caio-martins.shinyapps.io/Crimes-SP-Dashboard/)
 
 Como ficou o dashboard ?
 
