@@ -1,2 +1,24 @@
-# Crimes-SP-Dashboard
- Dashboard Criminalidade Bairro a Bairro SP
+# Crimes SP - Dashboard
+
+Dashboard com alguns dos dados da criminalidade em SP entre 2018 e 2021.
+Este projeto é inspirado num infográfico do [Estadão](https://infograficos.estadao.com.br/cidades/criminalidade-bairro-a-bairro/) 
+
+Como o infográfico do Estadão só compreende até o ano de 2017, quis realizar para os períodos subsequentes.
+
+O Dashboard aqui desenvolvido contemplará os seguintes crimes: roubos de celulares, roubos de veículos, homicídios e latrocínios. 
+
+O Dashboard contemplará 3 infográficos:
+
+1. Mapa dos crimes. Mapa com os dados agregados por distrito policial
+2. Tabela interativa com o número de ocorridos por Delegacias de Polícias
+3. Gráfico com o número de ocorridos ao longo do ano
+
+
+### Metodologia:
+
+A manipulação e limpeza dos dados foi realizada utilizando o R (tidyverse). O dashboard foi construído utilizando o pacote Shiny e o Shinydashboard.
+
+Os dados podem ser encontrados neste [link](http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx) no site da Segurança Pública de SP.
+
+
+Para agrupar os dados corretamente seguí a metodologia disponibilizada no [site](http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx) 'Exportar Metodologia'.
