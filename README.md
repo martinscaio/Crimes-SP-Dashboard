@@ -47,7 +47,7 @@ Como podemos ver na imagem acima, há na barra lateral esquerda os tipos de crim
 
 ![dashboard_imagem](https://user-images.githubusercontent.com/75284489/197599914-8b5991d9-a523-4cb0-90ac-2fcf37be2ac2.png)
 
-Com podemos ver pela imagem acima, o mapa é interativo, ou seja, podemos passar o mouse pelos distritos que nos informa o nome da Delegacia, o número e a quantidade de ocorridos.
+O mapa é interativo, ou seja, podemos passar o mouse pelos distritos que nos informa o nome da Delegacia, o número e a quantidade de ocorridos.
 
 A tabela do lado direito também é interativa, podendo pesquisar o nome da delegacia de interesse.
 
